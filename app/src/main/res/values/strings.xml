@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Генератор паролей</string>
+    <string name="password_length_hint" translatable="false">8</string>
+    <string name="use_numbers">Использовать числа</string>
+    <string name="use_special_characters">Использовать специальные символы</string>
+    <string name="copy">Копировать</string>
+    <string name="generate">Сгенерировать</string>
+    <string name="press_generate">Нажмите "Сгенерировать"</string>
+    <string name="password_length">Длина пароля: %1$d</string>
+    <string name="password_prefix">Пароль: </string>
+    <string name="password_copied">Пароль скопирован в буфер</string>
+    <string name="dark_mode">Сменить тему</string>
+</resources>
